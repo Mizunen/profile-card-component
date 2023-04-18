@@ -6,6 +6,7 @@ body{
     margin: 0;
     font-size: 18px;
     font-family: 'Kumbh Sans', sans-serif;
+    background-color: hsl(185, 75%, 39%);
 }
 
 main{
@@ -14,7 +15,6 @@ main{
     display: flex; 
     justify-content: center;
     align-items: center;
-    background-color: hsl(185, 75%, 39%);
     background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
     background-repeat: no-repeat no-repeat;
     background-position: right 45vw bottom 45vh, left 30vw top 50vh;
